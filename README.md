@@ -1,7 +1,7 @@
 # Fullstack Todo App
 
 Una aplicación de lista de tareas simple y fácil de usar que te ayuda a mantenerte organizado y al tanto de tus tareas diarias.
-![Imagen de la aplicación](./client/cap.png)
+![Imagen de la aplicación](./cap.PNG)
 ## Acerca de la Aplicación
 
 La Fullstack Todo App es una aplicación web diseñada para ayudar a los usuarios a organizar sus tareas diarias y mantenerse productivos. Permite a los usuarios crear, editar y eliminar tareas, así como agregar y gestionar tareas individuales dentro de cada tarea. La aplicación ofrece una interfaz limpia e intuitiva, lo que facilita a los usuarios mantenerse al día con sus tareas.
